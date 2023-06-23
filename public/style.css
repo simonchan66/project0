@@ -1,0 +1,17 @@
+h1 {
+background-color: darkorchid;
+color: azure;
+}
+
+.huge {
+    color:red;
+    font-size: 10rem;
+}
+
+.btn {
+    background-color:blueviolet;
+    color:azure;
+    border-radius: 5px;
+    font-size: 2rem;
+
+}
